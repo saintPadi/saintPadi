@@ -2,18 +2,16 @@
 <a href="https://www.linkedin.com/in/isaacpadi-bedu"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a recently graduated Information Systems security studies student with with a bachelors in Computer Engineering. I have a profound interest in providing cybersecurity solutions t organizations
+I am a recently graduated Information Systems security studies student with with a bachelors in Computer Engineering. I have a profound interest in providing cybersecurity solutions to organizations
 
 ## Objective
 
-My journey in computer engineering has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computer engineering has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to be a Governance,Risk and Compliance Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| CyberRisk and Maturity Assesment using NIST CSF Core         | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
