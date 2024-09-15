@@ -27,7 +27,7 @@ My journey in computer engineering has led me to develop a passion for cybersecu
 
 </div>
 <div>
-    <img src="https://img.shields.io/badge/ISO-270010033A0?logo=iso&logoColor=white" />
+    <img src="https://img.shields.io/badge/ISO-27001-0033A0?&style=for-the-badge&logo=iso&logoColor=white" />
    
 </div>
 
