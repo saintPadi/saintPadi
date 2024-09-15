@@ -23,7 +23,8 @@ My journey in computer engineering has led me to develop a passion for cybersecu
 
 ### FrameWorks
 <div>
-    <img src="https://www.nist.gov/cyberframework" target="_blank">NIST Cybersecurity Framework" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/NIST_logo.svg/1280px-NIST_logo.svg.png" alt="NIST Logo" width="200">
+" />
 </div>
 
 ### Endpoint
