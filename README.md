@@ -40,5 +40,5 @@ My journey in computer engineering has led me to develop a passion for cybersecu
 </div>
 
 ## Projects
-- Detection Lab
+- CyberRisk and Maturity Assesment using NIST CSF Core
 - SOC Automation Project
