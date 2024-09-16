@@ -11,12 +11,9 @@ My journey in computer engineering has led me to develop a passion for cybersecu
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| CyberRisk and Maturity Assesment using NIST CSF Core         | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-*| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|*
+| CyberRisk and Maturity Assesment using NIST CSF Core         | <a href="https://google.com">GRC LAB</a>|
+| Windows Server Hardening Using CIS Benchmarks | <a href="https://google.com">GRC LAB</a>|
+| Complete Goodcorp's risk assesment         | GRC LAB|
 
 ## Tools
 
