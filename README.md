@@ -11,7 +11,7 @@ My journey in computer engineering has led me to develop a passion for cybersecu
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| CyberRisk and Maturity Assesment using NIST CSF Core         | <a href="https://github.com/saintPadi/GRC-LABS?tab=readme-ov-file#cyber-risk-and-maturity-assesment-lab)</a>|
+| CyberRisk and Maturity Assesment using NIST CSF Core         | <a href="https://github.com/saintPadi/GRC-LABS?tab=readme-ov-file#cyber-risk-and-maturity-assesment-lab>GRC LABS</a>|
 | Windows Server Hardening Using CIS Benchmarks | <a href="https://google.com">GRC LAB</a>|
 | Complete Goodcorp's risk assesment         | GRC LAB|
 
