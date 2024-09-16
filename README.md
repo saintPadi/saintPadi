@@ -31,11 +31,10 @@ My journey in computer engineering has led me to develop a passion for cybersecu
    
 </div>
 <div>
-    <img src="https://img.shields.io/badge/PCI-DSS-009F4D?logo=pci&logoColor=white" />
+    <img src="https://img.shields.io/badge/PCI-DSS-009F4D?&style=for-the-badge&logo=pci&logoColor=white" />
 </div>
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/PCI-DSS-009F4D?logo=pci&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
