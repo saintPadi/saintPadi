@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/isaacpadi-bedu"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a recently graduated Information Systems security studies student with with a bachelors in Computer Engineering. I have a profound interest in providing cybersecurity solutions to organizations
+I am a recently graduated Information Systems security student with  a bachelors in Computer Engineering. I have a profound interest in providing cybersecurity solutions to organizations
 
 ## Objective
 
