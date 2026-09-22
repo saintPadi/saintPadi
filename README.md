@@ -5,7 +5,7 @@ I'm a GRC-background engineer with growing interest in  **AI security / prompt e
 
 ## Objective
 
-Actively building toward roles as an **AI Engineer** or **Prompt Engineer**: hands-on with Microsoft Copilot, Azure OpenAI, and Claude, with a track record of taking a prompt from "works once" to governed and production-reliable — output-format rules, scoring rubrics, and automated QA passes that catch drift before a human ever sees it.
+Actively building toward roles as an **AI Engineer/AI Sec Engineer** or **Prompt Engineer**: hands-on with Microsoft Copilot, Azure OpenAI, and Claude, with a track record of taking a prompt from "works once" to governed and production-reliable — output-format rules, scoring rubrics, and automated QA passes that catch drift before a human ever sees it.
 
 ## Featured AI / Prompt Engineering Projects
 
