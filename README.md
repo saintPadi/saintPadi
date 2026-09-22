@@ -1,7 +1,7 @@
 # Hello, I'm Isaac Bedu
 <a href="https://www.linkedin.com/in/isaacpadi-bedu"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm a GRC-background engineer pivoting into **AI / prompt engineering** ,designing structured prompt systems, reusable prompt libraries, and AI governance guardrails for production LLM workflows, backed by a compliance-minded, criteria-driven approach from my risk and information-security background.
+I'm a GRC-background engineer with growing interest in  **AI security / prompt engineering** ,designing structured prompt systems, reusable prompt libraries, and AI governance guardrails for production LLM workflows, backed by a compliance-minded, criteria-driven approach from my risk and information-security background.
 
 ## Objective
 
